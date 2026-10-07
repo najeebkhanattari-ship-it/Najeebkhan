@@ -1,10 +1,6 @@
-NAJEEB KHAN — REAL ANIMATED PORTFOLIO
-
-Upload these 4 files to the ROOT of your GitHub Pages repository:
-1. index.html
-2. style.css
-3. script.js
-4. machine-project.jpg
-
-Then commit changes. GitHub Pages will publish the site automatically.
-Replace the placeholder email and WhatsApp link in index.html with your real contact details.
+IMPORTANT:
+Upload ONLY index.html to the ROOT of your GitHub repository and replace the old index.html.
+This version has CSS, JavaScript, and the machine photo EMBEDDED inside index.html.
+No style.css, script.js, or image file is required.
+After Commit changes, wait 1-2 minutes and refresh:
+https://najeebkhanattari-ship-it.github.io
